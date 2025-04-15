@@ -1,11 +1,11 @@
 # ESA-PBL
- MQ2 Gas sensor & Rain detection Notification 
-Blynk.Cloud) */ 
+ //REAL TIME SMART MONITORING OF ENVIRONMRNTAL PARAMETERS USING ESP32 & BLYNK IOT 
+
 #define BLYNK_TEMPLATE_ID "" 
 #define BLYNK_DEVICE_NAME "" 
 #define BLYNK_AUTH_TOKEN "" 
  
-// Your WiFi Credentials. 
+// Enter Your WiFi Credentials. 
 // Set password to "" for open networks. 
 char ssid[] = ""; 
 char pass[] = ""; 
